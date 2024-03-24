@@ -1,8 +1,11 @@
 import React from 'react'
+import HomeHeader from './componets/HomeHeader'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <HomeHeader />
+    </div>
   )
 }
 
